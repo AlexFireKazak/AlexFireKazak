@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexFireKazak
 - 👀 I’m interested in programming, automobile driving skills, wathcing movies and any animes.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, C#, Unity. Almost all the code I write is used in my work.
 - 📫 How to reach me: alexfirekazak@gmail.com
 
 <!---
